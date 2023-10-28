@@ -4,6 +4,7 @@ This is a simple Body Mass Index (BMI) calculator that takes a person's name, we
 1. User defined function
 2. While loop
 3. If, elif, and else statements
-4. Try and Except
+4. Try and except
+5. Break and continue
 
 These concepts are combined to ensure that the code is error-proof and the user can calculate their BMI as many times as they want.
